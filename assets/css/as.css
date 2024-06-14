@@ -1,0 +1,11 @@
+.a{
+    background-color: blanchedalmond;
+   
+    width:90%; /* Set width of each div */
+    padding: 20px;
+    box-sizing: border-box;
+    display: flex;
+
+}
+.c{background-color: black;
+color: beige;}
